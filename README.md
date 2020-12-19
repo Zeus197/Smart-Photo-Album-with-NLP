@@ -18,7 +18,7 @@ The Upload workflow takes an image from the user local system and uplads it dire
 The user starts the mic and serches for a specific photo
 ![alt text](https://github.com/Zeus197/Smart-Photo-Album-with-NLP/blob/main/images/SeachOutput.png)
 # References
-[a link](https://medium.com/@dhruvarora2/uploading-images-to-s3-via-api-gateway-put-request-435a774bcdb8)
-[a link](https://medium.com/@dhruvarora2/setup-an-ec2-instance-as-a-nat-gateway-217d9bce82a0)
-[a link](https://medium.com/@dhruvarora2/access-aws-services-like-rekognition-from-a-vpc-enabled-lambda-b1d6907bae93)
-[a link](https://medium.com/@dhruvarora2/access-aws-services-like-rekognition-from-a-vpc-enabled-lambda-b1d6907bae93)
+[1. https://medium.com/@dhruvarora2/uploading-images-to-s3-via-api-gateway-put-request-435a774bcdb8](https://medium.com/@dhruvarora2/uploading-images-to-s3-via-api-gateway-put-request-435a774bcdb8)
+[2. https://medium.com/@dhruvarora2/setup-an-ec2-instance-as-a-nat-gateway-217d9bce82a0](https://medium.com/@dhruvarora2/setup-an-ec2-instance-as-a-nat-gateway-217d9bce82a0)
+[3. https://medium.com/@dhruvarora2/access-aws-services-like-rekognition-from-a-vpc-enabled-lambda-b1d6907bae93](https://medium.com/@dhruvarora2/access-aws-services-like-rekognition-from-a-vpc-enabled-lambda-b1d6907bae93)
+[4. https://medium.com/@dhruvarora2/access-aws-services-like-rekognition-from-a-vpc-enabled-lambda-b1d6907bae93](https://medium.com/@dhruvarora2/access-aws-services-like-rekognition-from-a-vpc-enabled-lambda-b1d6907bae93)
